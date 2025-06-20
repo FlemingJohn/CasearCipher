@@ -35,12 +35,12 @@ The program functions by:
 ```
 Input:
 Enter the text to encrypt:
-Hello World
+Fleming
 Enter shift key (0-25):
 3
 
 Output:
-Encrypted text: Khoor Zruog
+Encrypted text: Iohplqj
 ```
 
 ---
