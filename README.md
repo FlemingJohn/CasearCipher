@@ -1,6 +1,6 @@
 # Caesar Cipher in Java 🔐
 
-This project implements a basic **Caesar Cipher** encryption algorithm in Java. The Caesar Cipher is a simple substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+This project implements a basic **Caesar Cipher** encryption algorithm in Java. The Caesar Cipher is a simple substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet
 
 ---
 
